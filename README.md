@@ -1,3 +1,1 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paizi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/paizi?template=classic&activity=1&languages=1&stars=1&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true)
